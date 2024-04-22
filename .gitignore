@@ -1,4 +1,5 @@
 *.xlsx
+reporte-final/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
